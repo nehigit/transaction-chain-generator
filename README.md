@@ -1,5 +1,6 @@
-# Treść zadania
+# transaction-chain-generator
 
+## Treść zadania
 Stwórz klasę `Transaction` która zawiera pola `ammount` typu `double`, `lastTransaction` typu `String` i `nonce` typu `int`. Przykładowy obiekt:
 ```java
 {
