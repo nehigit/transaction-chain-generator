@@ -1,4 +1,4 @@
-package pl.edu.wszib.transaction.chain.generator;
+package pl.edu.wszib.transaction.chain.generator.model;
 
 import lombok.Getter;
 import lombok.Setter;

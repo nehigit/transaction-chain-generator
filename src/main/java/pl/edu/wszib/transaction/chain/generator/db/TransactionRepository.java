@@ -1,4 +1,6 @@
-package pl.edu.wszib.transaction.chain.generator;
+package pl.edu.wszib.transaction.chain.generator.db;
+
+import pl.edu.wszib.transaction.chain.generator.model.Transaction;
 
 import java.util.ArrayList;
 import java.util.List;
